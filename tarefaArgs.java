@@ -22,6 +22,9 @@ public class tarefaArgs {
                 }
             }
         }
+        System.out.println("Quantidade de palavras: "+Qntpalavras);
+        System.out.printf("Quantidade de pares: %d\nQuantidade de ímpares: %d\n",par,impar);
         System.out.printf("Qnt A: %d\nQnt E: %d\nQnt I: %d\nQnt O: %d\nQnt U: %d\n",a,e,i,o,u);
+        System.out.printf("Total de vogais: %d",a+i+o+u+e);
     }
 }

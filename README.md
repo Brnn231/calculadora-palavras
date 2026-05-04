@@ -7,4 +7,5 @@ Atividade 001 - Faça um código que, via argumentos, recebe um texto e conte a 
 (x) contar quantidade de vogais
 (x) verificar vogais
 (x) Mostrar vogais
-() Mostrar quantidade de palavras e quantidade de palavras pares e impares
+(x) Mostrar quantidade de palavras e quantidade de palavras pares e impares
+---------------------------------------------------------
