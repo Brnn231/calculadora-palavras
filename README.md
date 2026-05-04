@@ -4,6 +4,7 @@ Atividade 001 - Faça um código que, via argumentos, recebe um texto e conte a 
 
 (x) contar quantidade de palavras
 (x) verificar se a palavra é par ou ímpar
-() contar quantidade de vogais
-() verificar vogais
-() Mostrar vogais, quantidade de palavras e quantidade de palavras pares e impares
+(x) contar quantidade de vogais
+(x) verificar vogais
+(x) Mostrar vogais
+() Mostrar quantidade de palavras e quantidade de palavras pares e impares
