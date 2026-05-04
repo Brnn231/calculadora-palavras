@@ -10,15 +10,15 @@ public class tarefaArgs {
             }
             for(char letra: ParImpar.toLowerCase().toCharArray()) {
                 switch (letra){
-                    case 'a', 'á', 'à', 'ã', 'â': ++a;
+                    case 'a': ++a;
                     break;
-                    case 'e', 'é', 'è', 'ê': ++e;
+                    case 'e': ++e;
                     break;
-                    case 'i','í','ì','î': ++i;
+                    case 'i': ++i;
                     break;
-                    case 'o','ó','ò','õ','ô': ++o;
+                    case 'o': ++o;
                     break;
-                    case 'u','ú','ù','û': ++u;
+                    case 'u': ++u;
                 }
             }
         }
